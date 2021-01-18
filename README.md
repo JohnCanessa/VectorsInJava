@@ -8,7 +8,7 @@ array lists I want to spend some time experimenting with Java vectors.
 If you are interested in my comments please visit th efollowing post
 in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/01/18/vectors-in-java/
 
 Remember that one of the best ways to learn is to read and experiment.
 
